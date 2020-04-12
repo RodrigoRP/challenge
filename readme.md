@@ -1,4 +1,4 @@
-# Teste admissional prático da Apisul
+# Teste admissional
 
 Suponha que a administração do prédio 99a da Tecnopuc, com 16 andares e cinco elevadores, denominados A, B, C, D e E, nos convidou a aperfeiçoar o sistema de controle dos elevadores. Depois de realizado um levantamento no qual cada usuário respondia:  
     a.	O elevador que utiliza com mais frequência (A, B, C, D ou E);  
